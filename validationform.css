@@ -1,0 +1,12 @@
+.form-wrap {
+    margin: auto;
+    padding: 20px;
+    max-width: 800px
+  }
+label, input, textarea, button{
+margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
